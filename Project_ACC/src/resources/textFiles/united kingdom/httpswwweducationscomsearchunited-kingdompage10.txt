@@ -1,0 +1,20 @@
+Finance, MA;University of Aberdeen;Master's degree;Aberdeen, Scotland;48 months;On campus 
+MSc Sustainable Finance and Accounting;University of Sussex Business School;Master's degree;Falmer, England;1 year;On campus 
+MSc Tropical Marine Biology;University of Essex;Master's degree;Colchester, England;1 year;On campus 
+Bachelor's Degree in Ancient History;University of Southampton;Bachelor's degree;Southampton, England;3 years;On campus 
+BSc (Hons) Environmental Sustainability;University of Derby;Bachelor's degree;Derby, England;3 years;On campus 
+Portuguese and French;Cardiff University;Bachelor's degree;Cardiff, Wales;4 years;On campus 
+MSc Health Economics and Econometrics;University of Birmingham;Master's degree;Birmingham, England;1 year;On campus 
+Midwifery;Bangor University;Bachelor's degree;Bangor, Wales;3 years;On campus 
+BSc (Hons) Environmental Sustainability with Foundation Year;University of Derby;Bachelor's degree;Derby, England;3 years;On campus 
+BA (Hons) Fashion Design and Technology;Manchester Metropolitan University;Bachelor's degree;Manchester, England;;On campus 
+MSc Biomedical Science;Manchester Metropolitan University;Master's degree;Manchester, England;1 year;On campus 
+Pharmacy and Pharmaceutical Sciences - MPhil/PhD;University of Lincoln;Doctorate / PhD;Lincoln, England;;On campus 
+Structrual Engineering With Concrete Materials MSc;University of Dundee;Master's degree;Dundee, Scotland;12 months;On campus 
+BSc (Hons) Adult Nursing;Manchester Metropolitan University;Bachelor's degree;Manchester, England;3 years;On campus 
+Sociology with Social Policy BA (Hons);University of Liverpool;Bachelor's degree;Liverpool, England;3 years;On campus 
+MSc Data Science;Manchester Metropolitan University;Master's degree;Manchester, England;;On campus 
+French/Italian (4 years);Cardiff University;Bachelor's degree;Cardiff, Wales;4 years;On campus 
+French/Music (4 years);Cardiff University;Bachelor's degree;Cardiff, Wales;4 years;On campus 
+Bachelor's Degree in PPE;University of Southampton;Bachelor's degree;Southampton, England;3 years;On campus 
+Child Nursing MSc;University of Dundee;Master's degree;Dundee, Scotland;3 years;On campus 

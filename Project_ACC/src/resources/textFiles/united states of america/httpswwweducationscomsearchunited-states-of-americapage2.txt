@@ -1,0 +1,38 @@
+Bachelor in Spanish;University of Mount Union;Bachelor's degree;Alliance, United States of America;;On campus 
+Bachelor of Science in International Business;Indiana University - Purdue University Indianapolis;Bachelor's degree;Indianapolis, United States of America;4 years;On campus 
+Bachelor in French;University of Mount Union;Bachelor's degree;Alliance, United States of America;;On campus 
+BA History;Campbellsville University;Bachelor's degree;Campbellsville, United States of America;;On campus 
+BS History;Campbellsville University;Bachelor's degree;Campbellsville, United States of America;;On campus 
+Master of Arts in International Development;American University;Master's degree;Washington D.C., United States of America;;On campus 
+MS in Toxicology for Human Risk Assessment;Johns Hopkins University, Bloomberg School of Public Health;Master's degree;Baltimore, United States of America;;On campus, Online / Distance 
+Art - Studio Arts (Painting / Drawing / Printmaking);Southern Utah University;Bachelor's degree;Cedar City, United States of America;;On campus 
+Physics;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Art - Studio Arts (Photography);Southern Utah University;Bachelor's degree;Cedar City, United States of America;;On campus 
+Mathematics;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Economics B.B.A.;Middle Tennessee State University;Bachelor's degree;Murfreesboro, United States of America;4 years;On campus 
+Licensed Practical Nursing;Edmonds College;Diploma / certificate;Lynnwood, United States of America;21 months;On campus, Blended learning, Online / Distance 
+Bachelor of Arts in Behavioral Sciences – International Relations Concentration;East-West University;Bachelor's degree;Chicago, United States of America;;On campus 
+Exploratory Program;Kent State University;Foundation / Pathway program;Multiple (8) Ashtabula, East Liverpool , Geauga, Kent, North Canton, Salem, Trumbull, Tuscarawas,;3 semesters;On campus 
+Early Childhood Education;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Biology;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Journalism;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning 
+Literacy Studies Ph.D.;Middle Tennessee State University;Doctorate / PhD;Murfreesboro, United States of America;;On campus 
+Bachelor in Spanish;University of Mount Union;Bachelor's degree;Alliance, United States of America;;On campus 
+Bachelor of Science in International Business;Indiana University - Purdue University Indianapolis;Bachelor's degree;Indianapolis, United States of America;4 years;On campus 
+Bachelor in French;University of Mount Union;Bachelor's degree;Alliance, United States of America;;On campus 
+BA History;Campbellsville University;Bachelor's degree;Campbellsville, United States of America;;On campus 
+BS History;Campbellsville University;Bachelor's degree;Campbellsville, United States of America;;On campus 
+Master of Arts in International Development;American University;Master's degree;Washington D.C., United States of America;;On campus 
+MS in Toxicology for Human Risk Assessment;Johns Hopkins University, Bloomberg School of Public Health;Master's degree;Baltimore, United States of America;;On campus, Online / Distance 
+Art - Studio Arts (Painting / Drawing / Printmaking);Southern Utah University;Bachelor's degree;Cedar City, United States of America;;On campus 
+Physics;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Art - Studio Arts (Photography);Southern Utah University;Bachelor's degree;Cedar City, United States of America;;On campus 
+Mathematics;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Economics B.B.A.;Middle Tennessee State University;Bachelor's degree;Murfreesboro, United States of America;4 years;On campus 
+Licensed Practical Nursing;Edmonds College;Diploma / certificate;Lynnwood, United States of America;21 months;On campus, Blended learning, Online / Distance 
+Bachelor of Arts in Behavioral Sciences – International Relations Concentration;East-West University;Bachelor's degree;Chicago, United States of America;;On campus 
+Exploratory Program;Kent State University;Foundation / Pathway program;Multiple (8) Ashtabula, East Liverpool , Geauga, Kent, North Canton, Salem, Trumbull, Tuscarawas,;3 semesters;On campus 
+Early Childhood Education;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Biology;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Journalism;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning 
+Literacy Studies Ph.D.;Middle Tennessee State University;Doctorate / PhD;Murfreesboro, United States of America;;On campus 

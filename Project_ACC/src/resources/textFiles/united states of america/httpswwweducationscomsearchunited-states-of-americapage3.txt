@@ -1,0 +1,36 @@
+Master of Science in Computer & Information Science;Indiana University - Purdue University Indianapolis;Master's degree;Indianapolis, United States of America;2 years;On campus 
+Certificate - Corrections;Riverside City College;Diploma / certificate;Riverside, United States of America;12 months;On campus 
+Engineering Technology;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus 
+Economics - B.A.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Economics - B.B.A;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Economics M.A.;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus 
+Anthropology (MA);The New School;Master's degree;New York City, United States of America;2 years;On campus 
+B.S. in Healthcare Administration and Public Health;Husson University;Bachelor's degree;Bangor, United States of America;4 years;On campus 
+Early Childhood Education - B.S.E.;Kent State University;Bachelor's degree;Multiple (3);4 years;On campus 
+History;Saint Martin's University;Bachelor's degree;Lacey, United States of America;;On campus 
+Legal English and U.S. Law;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;;Online / Distance 
+Engineering;Southern Utah University;Bachelor's degree;Cedar City, United States of America;;On campus 
+Bachelor of Arts in Environmental Science;Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Bachelor of Arts in Kinesiology and Integrative Physiology (KIP);Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Bachelor of Science in Kinesiology and Integrative Physiology (KIP);Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Art History;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Legal English: Listening and Speaking;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;6 weeks;Online / Distance 
+Information Technology;Saint Martin's University;Bachelor's degree;Lacey, United States of America;;On campus 
+Master of Science in Computer & Information Science;Indiana University - Purdue University Indianapolis;Master's degree;Indianapolis, United States of America;2 years;On campus 
+Certificate - Corrections;Riverside City College;Diploma / certificate;Riverside, United States of America;12 months;On campus 
+Engineering Technology;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus 
+Economics - B.A.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Economics - B.B.A;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Economics M.A.;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus 
+Anthropology (MA);The New School;Master's degree;New York City, United States of America;2 years;On campus 
+B.S. in Healthcare Administration and Public Health;Husson University;Bachelor's degree;Bangor, United States of America;4 years;On campus 
+Early Childhood Education - B.S.E.;Kent State University;Bachelor's degree;Multiple (3);4 years;On campus 
+History;Saint Martin's University;Bachelor's degree;Lacey, United States of America;;On campus 
+Legal English and U.S. Law;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;;Online / Distance 
+Engineering;Southern Utah University;Bachelor's degree;Cedar City, United States of America;;On campus 
+Bachelor of Arts in Environmental Science;Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Bachelor of Arts in Kinesiology and Integrative Physiology (KIP);Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Bachelor of Science in Kinesiology and Integrative Physiology (KIP);Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Art History;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Legal English: Listening and Speaking;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;6 weeks;Online / Distance 
+Information Technology;Saint Martin's University;Bachelor's degree;Lacey, United States of America;;On campus 

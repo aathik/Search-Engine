@@ -1,0 +1,14 @@
+Nursing (Adult);Cardiff University;Bachelor's degree;Cardiff, Wales;3 years;On campus 
+The London School of Economics and Political Science - Accounting for Investment and Managerial Decision-Making;GetSmarter;Diploma / certificate;London, England;8 weeks;Online / Distance 
+The London School of Economics and Political Science - Competitive Strategy and Innovation;GetSmarter;Diploma / certificate;London, England;8 weeks;Online / Distance 
+The London School of Economics and Political Science - Data: Law, Policy and Regulation;GetSmarter;Diploma / certificate;London, England;6 weeks;Online / Distance 
+Business Management (Accelerated) BSc;University of Dundee;Bachelor's degree;Dundee, Scotland;42 months;On campus 
+The London School of Economics and Political Science - Digital Transformation in HR;GetSmarter;Diploma / certificate;London, England;8 weeks;Online / Distance 
+The London School of Economics and Political Science - The Law and Economics of Mergers and Acquisitions;GetSmarter;Diploma / certificate;London, England;6 weeks;Online / Distance 
+Nursing (Child Health);Cardiff University;Bachelor's degree;Cardiff, Wales;3 years;On campus 
+Said Business School, University of Oxford - Oxford Executive Finance Program;GetSmarter;Diploma / certificate;Oxford, England;6 weeks;Online / Distance 
+The London School of Economics and Political Science - Decision-Making: Judgements, Biases, and Nudges;GetSmarter;Diploma / certificate;London, England;6 weeks;Online / Distance 
+University of Cambridge - Sustainable Finance;GetSmarter;Diploma / certificate;Cambridge, England;8 weeks;Online / Distance 
+BSc (Hons) Biological Sciences;University of Suffolk;Bachelor's degree;Ipswich, England;;On campus 
+Architecture;Cardiff University;Bachelor's degree;Cardiff, Wales;5 years;On campus 
+Midwifery;Cardiff University;Bachelor's degree;Cardiff, Wales;3 years;On campus 

@@ -1,0 +1,20 @@
+Project Management;Loyalist College;Graduate diploma / certificate;Belleville, Canada;2 semesters;On campus 
+Business;Loyalist College;Diploma / certificate;Belleville, Canada;4 semesters;On campus 
+Automotive Business;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+Computer Programming;Georgian College Applied Arts and Technology;Diploma / certificate;Multiple (2);2 years;On campus 
+Fitness and Health Promotion;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+General Arts and Science - English for Academic Purposes;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;1 year;On campus 
+Information Systems Security;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;1 year;On campus 
+Illustration;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Mechanical Engineering Technology;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;3 years;On campus 
+Mobile Application Development;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;1 year;On campus 
+Industrial Design;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Integrated Media;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Sculpture/Installation;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Big Data Analytics;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;1 year;On campus 
+Master in International Arts Management;HEC Montreal;Master's degree;Montreal, Canada;1 year;On campus 
+Office Administration - Executive;Algonquin College;Diploma / certificate;Multiple (2);43 weeks;On campus, Online / Distance 
+Digital Futures;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Hospitality Administration - Hotel and Resort;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;3 years;On campus 
+Tourism;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+Business Management;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;1 year;On campus 

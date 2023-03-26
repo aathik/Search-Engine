@@ -1,0 +1,20 @@
+Bachelor of Engineering;Carleton University;Bachelor's degree;Ottawa, Canada;;On campus 
+Bachelor of Business Administration (BBA) Marketing;HEC Montreal;Bachelor's degree;Montreal, Canada;4 years;On campus 
+Management;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+Economics;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+Catholic Studies;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Finance;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+Finance & Administration;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+Religious Studies;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Global Commerce;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+World Religions and Culture;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Accounting;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+Organizational and Human Resources;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;4 years;On campus 
+Human Rights Studies;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Bachelor of Social Work (BSW);King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Disability Studies;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+English;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Thanatology;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Philosophy;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Foundations in Western Thought and Civilization;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Psychology;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 

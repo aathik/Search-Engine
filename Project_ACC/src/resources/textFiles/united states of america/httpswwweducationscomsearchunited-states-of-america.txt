@@ -1,0 +1,36 @@
+Study Abroad America;California State University, Dominguez Hills;Study abroad program;Carson, United States of America;;On campus 
+Fiction and Culture of the Americas;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;8 weeks;Online / Distance 
+Certificate - Twelve Core Units;Riverside City College;Diploma / certificate;Riverside, United States of America;;On campus 
+Summer Course in United Nations Peacekeeping;Stanford University Summer Session;Summer / Short course;Stanford, United States of America;8 weeks;On campus 
+International Year One Program SF State;San Francisco State University;Foundation / Pathway program;San Francisco, United States of America;1 year;On campus 
+Latin American Studies;Hampshire College;Bachelor's degree;Amherst, United States of America;4 years;On campus 
+Political Science - B.A.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+English Language Learner;North Central College;Bachelor's degree;Naperville, United States of America;;On campus 
+Computer Science;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Blended learning 
+Associate Degree for Transfer in Administration of Justice;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+History;Hampshire College;Bachelor's degree;Amherst, United States of America;4 years;On campus 
+Public Relations - B.S.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Master of Science in Terrorism & Homeland Security Policy;American University;Master's degree;Washington D.C., United States of America;2 years;On campus 
+Associate Degree for Transfer in Spanish;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Construction Management;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Bachelor of Arts in Business;Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Health Care Management;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Bachelor of Science in Supply Chain Management;Indiana University - Purdue University Indianapolis;Bachelor's degree;Indianapolis, United States of America;4 years;On campus 
+Study Abroad America;California State University, Dominguez Hills;Study abroad program;Carson, United States of America;;On campus 
+Fiction and Culture of the Americas;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;8 weeks;Online / Distance 
+Certificate - Twelve Core Units;Riverside City College;Diploma / certificate;Riverside, United States of America;;On campus 
+Summer Course in United Nations Peacekeeping;Stanford University Summer Session;Summer / Short course;Stanford, United States of America;8 weeks;On campus 
+International Year One Program SF State;San Francisco State University;Foundation / Pathway program;San Francisco, United States of America;1 year;On campus 
+Latin American Studies;Hampshire College;Bachelor's degree;Amherst, United States of America;4 years;On campus 
+Political Science - B.A.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+English Language Learner;North Central College;Bachelor's degree;Naperville, United States of America;;On campus 
+Computer Science;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Blended learning 
+Associate Degree for Transfer in Administration of Justice;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+History;Hampshire College;Bachelor's degree;Amherst, United States of America;4 years;On campus 
+Public Relations - B.S.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Master of Science in Terrorism & Homeland Security Policy;American University;Master's degree;Washington D.C., United States of America;2 years;On campus 
+Associate Degree for Transfer in Spanish;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Construction Management;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Bachelor of Arts in Business;Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Health Care Management;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Bachelor of Science in Supply Chain Management;Indiana University - Purdue University Indianapolis;Bachelor's degree;Indianapolis, United States of America;4 years;On campus 

@@ -1,0 +1,18 @@
+Personal Support Worker;Algonquin College;Diploma / certificate;Multiple (3);29 weeks;On campus 
+Biotechnology - Advanced;Loyalist College;Diploma / certificate;Belleville, Canada;6 semesters;On campus 
+Manufacturing Engineering Technician;Loyalist College;Diploma / certificate;Belleville, Canada;4 semesters;On campus 
+Power Engineering Technology;Georgian College Applied Arts and Technology;Diploma / certificate;Owen Sound, Canada;3 years;On campus 
+Business - Marketing (Non Co-op);Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+Business Administration - Accounting;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;3 years;On campus 
+Computer Systems Technician - Networking;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+Criticism & Curatorial Practice (MFA);OCAD University;Master's degree;Toronto, Canada;2 years;On campus 
+Digital Futures (MA, MDes, MFA);OCAD University;Master's degree;Toronto, Canada;2 years;On campus 
+Electro-Mechanical Engineering Technology - Automation and Robotics;Centennial College;Diploma / certificate;Toronto, Canada;2 years;On campus 
+Graphic Design;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Law Clerk;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+Material Art & Design;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Mechanical Engineering Technician – Design;Centennial College;Diploma / certificate;Toronto, Canada;3 years;On campus 
+Mobile Applications Development;Centennial College;Diploma / certificate;Toronto, Canada;1 year;On campus 
+Research Analyst;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Barrie, Canada;1 year;On campus 
+Strategic Foresight and Innovation (MDes);OCAD University;Master's degree;Toronto, Canada;;On campus 
+Advertising and Marketing Communications;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 

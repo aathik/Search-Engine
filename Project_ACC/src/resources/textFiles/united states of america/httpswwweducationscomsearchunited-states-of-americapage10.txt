@@ -1,0 +1,36 @@
+English;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Physical Education;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Psychology - B.A.;Kent State University;Bachelor's degree;Multiple (8) Ashtabula, East Liverpool , Geauga, Kent, North Canton, Salem, Trumbull, Tuscarawas,;4 years;On campus 
+Washington Aerospace Training & Research (WATR) Program;Edmonds College;Diploma / certificate;Lynnwood, United States of America;12 weeks;Online / Distance 
+Health;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Bachelor in Electrical Engineering;University of Mount Union;Bachelor's degree;Alliance, United States of America;;On campus 
+Criminology and Justice Studies - B.A.;Kent State University;Bachelor's degree;Multiple (7) Ashtabula, East Liverpool , Kent, North Canton, Salem, Trumbull, Tuscarawas,;4 years;On campus 
+Geology;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Nursing - B.S.N.;Kent State University;Bachelor's degree;Multiple (5);4 years;On campus 
+Geology;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Business Information Technology;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Online / Distance 
+Digital Media Arts - Television Arts;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Business Administration M.B.A;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus, Online / Distance, Blended learning 
+Marketing;Fox Valley Technical College;Associate's degree;Multiple (2);;On campus, Online / Distance 
+Construction Technology - Certificate of Achievement;San Jose City College;Diploma / certificate;San Jose, United States of America;2.5 years;Blended learning 
+Construction Technology - Associate Degree;San Jose City College;Associate's degree;San Jose, United States of America;2.5 years;Blended learning 
+Summer Course on Introduction to Linear Dynamical Systems;Stanford University Summer Session;Summer / Short course;Stanford, United States of America;8 weeks;On campus 
+Associate Degree for Transfer in Political Science;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+English;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Physical Education;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Psychology - B.A.;Kent State University;Bachelor's degree;Multiple (8) Ashtabula, East Liverpool , Geauga, Kent, North Canton, Salem, Trumbull, Tuscarawas,;4 years;On campus 
+Washington Aerospace Training & Research (WATR) Program;Edmonds College;Diploma / certificate;Lynnwood, United States of America;12 weeks;Online / Distance 
+Health;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Bachelor in Electrical Engineering;University of Mount Union;Bachelor's degree;Alliance, United States of America;;On campus 
+Criminology and Justice Studies - B.A.;Kent State University;Bachelor's degree;Multiple (7) Ashtabula, East Liverpool , Kent, North Canton, Salem, Trumbull, Tuscarawas,;4 years;On campus 
+Geology;Edmonds College;Foundation / Pathway program;Lynnwood, United States of America;;On campus, Blended learning, Online / Distance 
+Nursing - B.S.N.;Kent State University;Bachelor's degree;Multiple (5);4 years;On campus 
+Geology;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Business Information Technology;Edmonds College;Associate's degree;Lynnwood, United States of America;;On campus, Online / Distance 
+Digital Media Arts - Television Arts;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Business Administration M.B.A;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus, Online / Distance, Blended learning 
+Marketing;Fox Valley Technical College;Associate's degree;Multiple (2);;On campus, Online / Distance 
+Construction Technology - Certificate of Achievement;San Jose City College;Diploma / certificate;San Jose, United States of America;2.5 years;Blended learning 
+Construction Technology - Associate Degree;San Jose City College;Associate's degree;San Jose, United States of America;2.5 years;Blended learning 
+Summer Course on Introduction to Linear Dynamical Systems;Stanford University Summer Session;Summer / Short course;Stanford, United States of America;8 weeks;On campus 
+Associate Degree for Transfer in Political Science;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 

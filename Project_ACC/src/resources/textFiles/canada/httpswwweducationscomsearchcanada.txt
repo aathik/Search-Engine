@@ -1,0 +1,20 @@
+Advertising;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Marine Technology - Navigation;Georgian College Applied Arts and Technology;Diploma / certificate;Owen Sound, Canada;3 years;On campus 
+Diploma in Intermediate Accounting in India;Schulich School of Business - York University;Diploma / certificate;Multiple (2);8 months;On campus 
+French;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Photography;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+International Development;Centennial College;Diploma / certificate;Toronto, Canada;;On campus 
+Creative Writing;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Regulatory Affairs - Sciences;Algonquin College;Graduate diploma / certificate;Ottawa, Canada;1 year;On campus, Online / Distance 
+Childhood and Youth Studies;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Master of Science (MSc) – User Experience in a Business Context;HEC Montreal;Master's degree;Montreal, Canada;;On campus 
+Marine Engineering Technology;Georgian College Applied Arts and Technology;Diploma / certificate;Owen Sound, Canada;3 years;On campus 
+Criticism and Curatorial Practice;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Master of Science (MSc) – International Business;HEC Montreal;Master's degree;Montreal, Canada;;On campus 
+Paralegal;Loyalist College;Diploma / certificate;Belleville, Canada;4 semesters;On campus 
+Drawing and Painting;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Customs Border Services;Loyalist College;Diploma / certificate;Belleville, Canada;4 semesters;On campus 
+Cannabis Applied Science;Loyalist College;Graduate diploma / certificate;Belleville, Canada;2 semesters;On campus 
+Visual and Critical Studies;OCAD University;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Contemporary Art, Design and New Media Art Histories (MA);OCAD University;Master's degree;Toronto, Canada;2 years;On campus 
+Financial Services – Canadian Context;Algonquin College;Diploma / certificate;Ottawa, Canada;2 years;On campus 

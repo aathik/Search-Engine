@@ -1,0 +1,20 @@
+Honours Agriculture;University of Guelph;Bachelor's degree;Guelph, Canada;;On campus 
+Opticianry;Georgian College Applied Arts and Technology;Diploma / certificate;Barrie, Canada;2 years;On campus 
+English;University of Guelph;Bachelor's degree;Guelph, Canada;;On campus 
+Computer Systems Technician- Networking;Centennial College;Diploma / certificate;Toronto, Canada;2 years;On campus 
+Supply Chain Management – Logistics;Centennial College;Diploma / certificate;Toronto, Canada;1 year;On campus 
+Enhanced Practice for Internationally Educated Nurses;Georgian College Applied Arts and Technology;Graduate diploma / certificate;Multiple (2);1 year;On campus 
+Specialized graduate diplomas (DESS);HEC Montreal;Graduate diploma / certificate;Montreal, Canada;1 year;On campus 
+Aviation Technician - Aircraft Maintenance;Centennial College;Diploma / certificate;Toronto, Canada;2 years;On campus 
+Bachelor of Public Relations Management, Honours;Centennial College;Bachelor's degree;Toronto, Canada;4 years;On campus 
+Master of Marketing (MMKG);Schulich School of Business - York University;Master's degree;Toronto, Canada;1 year;On campus 
+Social Justice and Peace Studies;King's University College at The University of Western Ontario;Bachelor's degree;London (Ontario, Canada), Canada;;On campus 
+Bachelor of Media Arts in 2D + Experimental Animation Major;Emily Carr University of Art + Design;Bachelor's degree;Vancouver, Canada;4 years;On campus 
+Hotel and Food Administration;University of Guelph;Bachelor's degree;Guelph, Canada;;On campus 
+Dental Assisting (Levels I and II);Algonquin College;Diploma / certificate;Ottawa, Canada;1 year;On campus 
+Master of Management in Business Analytics (MBAN);Schulich School of Business - York University;Master's degree;Toronto, Canada;1 year;On campus 
+Dental Hygiene;Algonquin College;Diploma / certificate;Ottawa, Canada;3 years;On campus 
+Respiratory Therapy;Algonquin College;Diploma / certificate;Ottawa, Canada;3 years;On campus 
+Bachelor of Journalism;Carleton University;Bachelor's degree;Ottawa, Canada;;On campus 
+Marketing – Research and Analytics;Centennial College;Diploma / certificate;Toronto, Canada;1 year;On campus 
+Animation;Algonquin College;Diploma / certificate;Ottawa, Canada;3 years;On campus 

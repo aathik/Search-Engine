@@ -1,0 +1,40 @@
+Spanish - Literature;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Bachelor of Arts in Geology;Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Actuarial Mathematics - B.S.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Biotechnology - B.S.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Associate Degree for Transfer in Psychology;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Sociology;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Certificate - Early Childhood Intervention Assistant;Riverside City College;Diploma / certificate;Riverside, United States of America;12 months;On campus 
+Materials Science Technology;Edmonds College;Associate's degree;Lynnwood, United States of America;2 years;On campus 
+Associate Degree for Transfer in English;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Biology M.S.;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus 
+Introduction to Solid Mechanics;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;8 weeks;Online / Distance 
+Engineering Technology M.S.;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus 
+Secondary Education;Saint Martin's University;Bachelor's degree;Lacey, United States of America;;On campus 
+Economics;Hampshire College;Bachelor's degree;Amherst, United States of America;4 years;On campus 
+Certificate - Music Technology;Riverside City College;Diploma / certificate;Riverside, United States of America;1 year;On campus 
+Associate of Science - Early Childhood Intervention Assistant;Riverside City College;Associate's degree;Riverside, United States of America;12 months;On campus 
+Associate Degree for Transfer in Mathematics;Riverside City College;Associate's degree;Riverside, United States of America;;On campus 
+Political Science;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Associate Degree for Transfer in Geography;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Public Health - M.P.H.;Kent State University;Master's degree;Multiple (2);;Online / Distance, On campus 
+Spanish - Literature;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Bachelor of Arts in Geology;Hanover College;Bachelor's degree;Hanover, United States of America;4 years;On campus 
+Actuarial Mathematics - B.S.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Biotechnology - B.S.;Kent State University;Bachelor's degree;Kent, United States of America;4 years;On campus 
+Associate Degree for Transfer in Psychology;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Sociology;Orange Coast College;Associate's degree;Costa Mesa, United States of America;;On campus 
+Certificate - Early Childhood Intervention Assistant;Riverside City College;Diploma / certificate;Riverside, United States of America;12 months;On campus 
+Materials Science Technology;Edmonds College;Associate's degree;Lynnwood, United States of America;2 years;On campus 
+Associate Degree for Transfer in English;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Biology M.S.;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus 
+Introduction to Solid Mechanics;UC Berkeley Summer Sessions;Summer / Short course;Berkeley, United States of America;8 weeks;Online / Distance 
+Engineering Technology M.S.;Middle Tennessee State University;Master's degree;Murfreesboro, United States of America;;On campus 
+Secondary Education;Saint Martin's University;Bachelor's degree;Lacey, United States of America;;On campus 
+Economics;Hampshire College;Bachelor's degree;Amherst, United States of America;4 years;On campus 
+Certificate - Music Technology;Riverside City College;Diploma / certificate;Riverside, United States of America;1 year;On campus 
+Associate of Science - Early Childhood Intervention Assistant;Riverside City College;Associate's degree;Riverside, United States of America;12 months;On campus 
+Associate Degree for Transfer in Mathematics;Riverside City College;Associate's degree;Riverside, United States of America;;On campus 
+Political Science;California State University, Dominguez Hills;Bachelor's degree;Carson, United States of America;;On campus 
+Associate Degree for Transfer in Geography;Riverside City College;Associate's degree;Riverside, United States of America;2 years;On campus 
+Public Health - M.P.H.;Kent State University;Master's degree;Multiple (2);;Online / Distance, On campus 
